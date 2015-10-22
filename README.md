@@ -35,7 +35,7 @@ Big differences:
 ### in your build.sbt
 
 ```scala
-libraryDependencies +=  "org.scalaj" %% "scalaj-http" % "1.1.5"
+libraryDependencies +=  "org.scalaj" %% "scalaj-http_2.11" % "1.1.5"
 ```
 
 ### maven
